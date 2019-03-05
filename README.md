@@ -7,10 +7,10 @@
 
 <table>
 <td> 
-<img src="images/attn_model.png" style="width:500;height:500px;"> <br>
+<img src="examples/line-segments-example.jpg" style="width:500;height:500px;"> <br>
 </td> 
 <td> 
-<img src="images/attn_mechanism.png" style="width:500;height:500px;"> <br>
+<img src="examples/laneLines_thirdPass.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
 
