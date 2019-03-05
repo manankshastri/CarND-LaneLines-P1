@@ -15,3 +15,6 @@
 </table>
 
 <hr>
+
+<p><a href="test_videos_output/solidWhiteRight.mp4">Video 1</a></p>
+<p><a href="test_videos_output/solidYellowLeft.mp4">Video 2</a></p> 
